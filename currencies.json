@@ -9,7 +9,7 @@
         "name":"Afghanis",
         "full_name":"Afghan Afghanis",
         "symbol":"؋",
-        "unicode_hex":1547
+        "unicode_hex":[1547]
     },
     "ALL":{
         "code":"ALL",
@@ -32,7 +32,7 @@
         "name":"Guilders",
         "full_name":"Netherlands Antillean Guilders",
         "symbol":"ƒ",
-        "unicode_hex":402
+        "unicode_hex":[402]
     },
     "AOA":{
         "code":"AOA",
@@ -45,14 +45,14 @@
         "name":"Pesos",
         "full_name":"Argentine Pesos",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "AUD":{
         "code":"AUD",
         "name":"Dollars",
         "full_name":"Australian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "AWG":{
         "alt_name":"Florins",
@@ -60,7 +60,7 @@
         "name":"Guilders",
         "full_name":"Aruban Guilders",
         "symbol":"ƒ",
-        "unicode_hex":402
+        "unicode_hex":[402]
     },
     "AZN":{
         "code":"AZN",
@@ -88,7 +88,7 @@
         "name":"Dollars",
         "full_name":"Barbados Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "BDT":{
         "code":"BDT",
@@ -120,14 +120,14 @@
         "name":"Dollars",
         "full_name":"Bermudian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "BND":{
         "code":"BND",
         "name":"Dollars",
         "full_name":"Brunei Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "BOB":{
         "code":"BOB",
@@ -154,7 +154,7 @@
         "name":"Dollars",
         "full_name":"Bahamian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "BTN":{
         "code":"BTN",
@@ -166,7 +166,7 @@
         "name":"Pulas",
         "full_name":"Botswana Pulas",
         "symbol":"P",
-        "unicode_hex":80
+        "unicode_hex":[80]
     },
     "BYR":{
         "code":"BYR",
@@ -194,7 +194,7 @@
         "name":"Dollars",
         "full_name":"Canadian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "CDF":{
         "code":"CDF",
@@ -217,35 +217,35 @@
         "name":"Pesos",
         "full_name":"Chilean Pesos",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "CNY":{
         "code":"CNY",
         "name":"Yuan Renminbi",
         "full_name":"Yuan Renminbi",
         "symbol":"¥",
-        "unicode_hex":165
+        "unicode_hex":[165]
     },
     "COP":{
         "code":"COP",
         "name":"Pesos",
         "full_name":"Colombian Pesos",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "CRC":{
         "code":"CRC",
         "name":"Colones",
         "full_name":"Costa Rican Colones",
         "symbol":"₡",
-        "unicode_hex":8353
+        "unicode_hex":[8353]
     },
     "CUP":{
         "code":"CUP",
         "name":"Pesos",
         "full_name":"Cuban Pesos",
         "symbol":"₱",
-        "unicode_hex":8369
+        "unicode_hex":[8369]
     },
     "CVE":{
         "code":"CVE",
@@ -313,7 +313,7 @@
         "name":"Pounds",
         "full_name":"Egyptian Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "ETB":{
         "code":"ETB",
@@ -325,7 +325,7 @@
         "name":"Euro",
         "full_name":"Euro",
         "symbol":"€",
-        "unicode_hex":8364
+        "unicode_hex":[8364]
     },
     "FJD":{
         "code":"FJD",
@@ -337,14 +337,14 @@
         "name":"Pounds",
         "full_name":"Falkland Islands Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "GBP":{
         "code":"GBP",
         "name":"Pounds",
         "full_name":"Pound Sterling",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "GEL":{
         "code":"GEL",
@@ -356,21 +356,21 @@
         "name":"Pounds",
         "full_name":"Pound Sterling",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "GHS":{
         "code":"GHS",
         "name":"Cedis",
         "full_name":"Ghanaian Cedis",
         "symbol":"¢",
-        "unicode_hex":162
+        "unicode_hex":[162]
     },
     "GIP":{
         "code":"GIP",
         "name":"Pounds",
         "full_name":"Gibraltar Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "GMD":{
         "code":"GMD",
@@ -387,7 +387,7 @@
         "name":"Quetzales",
         "full_name":"Quetzales",
         "symbol":"Q",
-        "unicode_hex":81
+        "unicode_hex":[81]
     },
     "GYD":{
         "code":"GYD",
@@ -399,14 +399,14 @@
         "name":"Dollars",
         "full_name":"Hong Kong Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "HNL":{
         "code":"HNL",
         "name":"Lempiras",
         "full_name":"Honduaran Lempiras",
         "symbol":"L",
-        "unicode_hex":76
+        "unicode_hex":[76]
     },
     "HRK":{
         "code":"HRK",
@@ -448,21 +448,21 @@
         "name":"New Shekels",
         "full_name":"New Shekels",
         "symbol":"₪",
-        "unicode_hex":8362
+        "unicode_hex":[8362]
     },
     "IMP":{
         "code":"IMP",
         "name":"Pounds",
         "full_name":"Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "INR":{
         "code":"INR",
         "name":"Rupees",
         "full_name":"Indian Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "IQD":{
         "code":"IQD",
@@ -474,7 +474,7 @@
         "name":"Riais",
         "full_name":"Iranian Riais",
         "symbol":"﷼",
-        "unicode_hex":65020
+        "unicode_hex":[65020]
     },
     "ISK":{
         "code":"ISK",
@@ -491,7 +491,7 @@
         "name":"Pounds",
         "full_name":"Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "JMD":{
         "code":"JMD",
@@ -508,7 +508,7 @@
         "name":"Yen",
         "full_name":"Japanese Yen",
         "symbol":"¥",
-        "unicode_hex":165
+        "unicode_hex":[165]
     },
     "KES":{
         "code":"KES",
@@ -540,14 +540,14 @@
         "name":"Won",
         "full_name":"North Korean Won",
         "symbol":"₩",
-        "unicode_hex":8361
+        "unicode_hex":[8361]
     },
     "KRW":{
         "code":"KRW",
         "name":"Won",
         "full_name":"Korean Won",
         "symbol":"₩",
-        "unicode_hex":8361
+        "unicode_hex":[8361]
     },
     "KWD":{
         "code":"KWD",
@@ -559,7 +559,7 @@
         "name":"Dollars",
         "full_name":"Cayman Islands Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "KZT":{
         "code":"KZT",
@@ -576,28 +576,28 @@
         "name":"Kips",
         "full_name":"Lao Kips",
         "symbol":"₭",
-        "unicode_hex":8365
+        "unicode_hex":[8365]
     },
     "LBP":{
         "code":"LBP",
         "name":"Pounds",
         "full_name":"Lebanese Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "LKR":{
         "code":"LKR",
         "name":"Rupees",
         "full_name":"Sri Lanka Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "LRD":{
         "code":"LRD",
         "name":"Dollars",
         "full_name":"Liberian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "LSL":{
         "code":"LSL",
@@ -664,7 +664,7 @@
         "name":"Tugriks",
         "full_name":"Mongolian Tugriks",
         "symbol":"₮",
-        "unicode_hex":8366
+        "unicode_hex":[8366]
     },
     "MOP":{
         "code":"MOP",
@@ -681,7 +681,7 @@
         "name":"Rupees",
         "full_name":"Mauritius Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "MVR":{
         "code":"MVR",
@@ -698,7 +698,7 @@
         "name":"Pesos",
         "full_name":"Mexican Nuevo Pesos",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "MYR":{
         "code":"MYR",
@@ -725,14 +725,14 @@
         "name":"Dollars",
         "full_name":"Namibian Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "NGN":{
         "code":"NGN",
         "name":"Nairas",
         "full_name":"Nigerian Nairas",
         "symbol":"₦",
-        "unicode_hex":8358
+        "unicode_hex":[8358]
     },
     "NIO":{
         "code":"NIO",
@@ -759,21 +759,21 @@
         "name":"Rupees",
         "full_name":"Nepalese Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "NZD":{
         "code":"NZD",
         "name":"New Zealand Dollars",
         "full_name":"New Zealand Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "OMR":{
         "code":"OMR",
         "name":"Riais",
         "full_name":"Riais",
         "symbol":"﷼",
-        "unicode_hex":65020
+        "unicode_hex":[65020]
     },
     "PAB":{
         "code":"PAB",
@@ -816,7 +816,7 @@
         "name":"Rupees",
         "full_name":"Pakistani Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "PLN":{
         "code":"PLN",
@@ -843,7 +843,7 @@
         "name":"Rials",
         "full_name":"Qatar Rials",
         "symbol":"﷼",
-        "unicode_hex":65020
+        "unicode_hex":[65020]
     },
     "RON":{
         "code":"RON",
@@ -889,21 +889,21 @@
         "name":"Riyals",
         "full_name":"Saudi Arabia Riyals",
         "symbol":"﷼",
-        "unicode_hex":65020
+        "unicode_hex":[65020]
     },
     "SBD":{
         "code":"SBD",
         "name":"Dollars",
         "full_name":"Solomon Islands Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "SCR":{
         "code":"SCR",
         "name":"Rupees",
         "full_name":"Seychelles Rupees",
         "symbol":"₨",
-        "unicode_hex":8360
+        "unicode_hex":[8360]
     },
     "SDG":{
         "code":"SDG",
@@ -925,14 +925,14 @@
         "name":"Dollars",
         "full_name":"Singapore Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "SHP":{
         "code":"SHP",
         "name":"Pounds",
         "full_name":"Saint Helena Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "SLL":{
         "code":"SLL",
@@ -944,14 +944,14 @@
         "name":"Shillings",
         "full_name":"Somalia Shillings",
         "symbol":"S",
-        "unicode_hex":83
+        "unicode_hex":[83]
     },
     "SRD":{
         "code":"SRD",
         "name":"Dollars",
         "full_name":"Surifull_name Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "STD":{
         "code":"STD",
@@ -968,7 +968,7 @@
         "name":"Pounds",
         "full_name":"Syria Pounds",
         "symbol":"£",
-        "unicode_hex":163
+        "unicode_hex":[163]
     },
     "SZL":{
         "code":"SZL",
@@ -980,7 +980,7 @@
         "name":"Baht",
         "full_name":"Thailand Baht",
         "symbol":"฿",
-        "unicode_hex":3647
+        "unicode_hex":[3647]
     },
     "TJS":{
         "code":"TJS",
@@ -1017,7 +1017,7 @@
         "name":"Dollars",
         "full_name":"Trinidad and Tobago Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "TVD":{
         "code":"TVD",
@@ -1045,7 +1045,7 @@
         "name":"Hryvnia",
         "full_name":"Ukraine Hryvnia",
         "symbol":"₴",
-        "unicode_hex":8372
+        "unicode_hex":[8372]
     },
     "UGX":{
         "code":"UGX",
@@ -1057,7 +1057,7 @@
         "name":"Dollars",
         "full_name":"United States Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "UYU":{
         "code":"UYU",
@@ -1094,7 +1094,7 @@
         "name":"Dong",
         "full_name":"Viet Nam Dong",
         "symbol":"₫",
-        "unicode_hex":8363
+        "unicode_hex":[8363]
     },
     "VUV":{
         "code":"VUV",
@@ -1116,7 +1116,7 @@
         "name":"East Caribbean Dollars",
         "full_name":"East Caribbean Dollars",
         "symbol":"$",
-        "unicode_hex":36
+        "unicode_hex":[36]
     },
     "XOF":{
         "code":"XOF",
@@ -1133,14 +1133,14 @@
         "name":"Rials",
         "full_name":"Yemen Rials",
         "symbol":"﷼",
-        "unicode_hex":65020
+        "unicode_hex":[65020]
     },
     "ZAR":{
         "code":"ZAR",
         "name":"Rand",
         "full_name":"South Africa Rand",
         "symbol":"R",
-        "unicode_hex":82
+        "unicode_hex":[82]
     },
     "ZMW":{
         "code":"ZMW",
